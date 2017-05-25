@@ -1,0 +1,27 @@
+{
+    "opencv_storage": {
+        "Settings": {
+            "BoardSize_Width": "7", 
+            "BoardSize_Height": "5", 
+            "Square_Size": "28.62", 
+            "Calibrate_Pattern": "\"CHESSBOARD\"", 
+            "Input": "\"data/images.xml\"", 
+            "Input_FlipAroundHorizontalAxis": "0", 
+            "Input_Delay": "100", 
+            "Calibrate_NrOfFrameToUse": "25", 
+            "Calibrate_FixAspectRatio": "1", 
+            "Calibrate_AssumeZeroTangentialDistortion": "1", 
+            "Calibrate_FixPrincipalPointAtTheCenter": "1", 
+            "Write_outputFileName": "\"data/out_camera_data.json\"", 
+            "Write_DetectedFeaturePoints": "1", 
+            "Write_extrinsicParameters": "1", 
+            "Show_UndistortedImage": "1", 
+            "Calibrate_UseFisheyeModel": "1", 
+            "Fix_K1": "0", 
+            "Fix_K2": "0", 
+            "Fix_K3": "0", 
+            "Fix_K4": "0", 
+            "Fix_K5": "0"
+        }
+    }
+}
